@@ -47,7 +47,6 @@
 #include "exec/scan-node.h"
 #include "util/debug-util.h"
 #include "util/hdfs-util.h"
-#include "util/container-util.h"
 #include "gen-cpp/ImpalaInternalService.h"
 #include "gen-cpp/ImpalaInternalService_types.h"
 #include "gen-cpp/Frontend_types.h"
